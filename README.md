@@ -1,10 +1,5 @@
-\# mytestRepo
+# mytestRepo
 
+***<u>Maharjan</u>***
 
-
-\*\*\*<u>Maharjan</u>\*\*\*
-
-
-
-\*\*\*<u>PowerShell Scripting</u>\*\*\*
-
+***<u>PowerShell Scripting</u>***
